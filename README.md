@@ -8,4 +8,5 @@ social media posts, explanatory responses, and haikus.
 Files provided in repository:
 
 Final written report
+
 Data collected from students in a JMP file
